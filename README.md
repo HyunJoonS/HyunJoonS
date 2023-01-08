@@ -29,7 +29,7 @@
         <img src="https://user-images.githubusercontent.com/81973827/211218826-299028f6-9f0f-41ea-bf2e-2712d306f7d6.png"/>
      </td>  
       <td>
-          <a href="https://www.hyunjoon.co.kr">
+          <a href="https://www.hyunjoon.co.kr" target="_blank">
             <img src="https://user-images.githubusercontent.com/81973827/211218826-299028f6-9f0f-41ea-bf2e-2712d306f7d6.png"/>
           </a>
       </td>  
