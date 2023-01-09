@@ -4,7 +4,7 @@
   
 </div>
 
-Introduction
+😊 Introduction
 ---
 
 안녕하세요! 주니어 백엔드 개발자 신현준입니다.  
@@ -12,7 +12,7 @@ Introduction
 새로운 기술을 공부하고 적용하는 것을 좋아합니다
 
   
-Skill 
+📑 Skill 
 ---
   
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"/>
@@ -26,7 +26,7 @@ Skill
 <br/>
 
   
-My personal project
+💻 My personal project
 ---
 
 <table>
@@ -44,7 +44,7 @@ My personal project
   </tr>
 </table>
 
-
+##### ↑ 이미지를 클릭하시면 상세 프로젝트 페이지로 이동합니다.
 
   
 <!--
