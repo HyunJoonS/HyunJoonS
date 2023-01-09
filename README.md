@@ -32,10 +32,14 @@ My personal project
 <table>
   <tr>
     <td>
-      <img src = "https://user-images.githubusercontent.com/81973827/211239336-3b27d5f0-c782-4648-b271-b12bc4ad3b1f.png" width="300px" height="200px"> 
+      <a href="https://github.com/HyunJoonS/bookCafe">
+        <img src = "https://user-images.githubusercontent.com/81973827/211239336-3b27d5f0-c782-4648-b271-b12bc4ad3b1f.png" width="300px" height="200px"> 
+      </a>
     </td>
     <td>
-      <img src = "https://user-images.githubusercontent.com/81973827/211218826-299028f6-9f0f-41ea-bf2e-2712d306f7d6.png" width="300px" height="200px">
+      <a href="https://github.com/HyunJoonS/movieTown">
+        <img src = "https://user-images.githubusercontent.com/81973827/211218826-299028f6-9f0f-41ea-bf2e-2712d306f7d6.png" width="300px" height="200px">
+      </a>
     </td>
   </tr>
 </table>
