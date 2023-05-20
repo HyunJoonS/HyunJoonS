@@ -8,7 +8,7 @@
 ---
 
 안녕하세요! 기본기가 탄탄한 주니어 백엔드 개발자 신현준입니다.   
-현재 Java, Spring boot, Jpa를 주력으로 공부하고 있으며 그 외에도 Node.js, MySQL, React, JavaScript, C#, Git, Ubuntu등을 사용하여    
+현재 Java, Kotlin, Spring boot, Jpa를 주력으로 공부하고 있으며 그 외에도 Node.js, MySQL, MsSQL, React, Vue, JavaScript, C#, Git, Ubuntu등을 사용하여    
 프로젝트를 설계, 개발, 배포해 본 경험이 있습니다.   
 호기심이 많고 도전적인 성격을 가진 개발자이며 새로운 기술을 공부하고 적용하는 것을 좋아합니다.   
 TDD에 관심이 많고, 좋은 코드란 무엇 인가에 대하여 언제나 고민하고 있습니다.   
